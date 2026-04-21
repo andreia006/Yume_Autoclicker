@@ -8,8 +8,11 @@ Lmk if there's any issues
 
 ### Version 1.0
 > Release
+>
 > On/Off indicator
+>
 > Emergency Kill Switch (ESC)
+>
 > Customizable clicks per second
 
 Keybinds:
